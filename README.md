@@ -53,12 +53,17 @@ go to index.html <br>
 ### Project Documentation
 For Software: <br>
 
-# Screenshots (Add at least 3)
-![Screenshot1]
+# Screenshots 
 
-![Screenshot2]
+![Landing Page](demo_ss/image1.png)  
+*This shows the landing page of Divine Connect*
 
-![Screenshot3]
+![Chat with God](demo_ss/image2.png)  
+*This is the chat interface with Lord Krishna*
+
+![Divine Contact Numbers](demo_ss/image3.png)  
+*This section displays phone numbers of various Gods you can "contact"*
+
 
 # Diagrams
 ![Workflow]
@@ -67,6 +72,7 @@ For Software: <br>
 ### Project Demo
 # Video
 https://drive.google.com/drive/folders/1UNecACPckHo35CKm-1BQEPnYJGpYohIj?usp=sharing
+
 
 
 
