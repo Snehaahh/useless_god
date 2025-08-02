@@ -66,12 +66,13 @@ For Software: <br>
 
 
 # Diagrams
-![Workflow]
+![Workflow](demo_ss/architecture.png)
 
 
 ### Project Demo
 # Video
 https://drive.google.com/drive/folders/1UNecACPckHo35CKm-1BQEPnYJGpYohIj?usp=sharing
+
 
 
 
