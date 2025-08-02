@@ -39,9 +39,6 @@ fetch API <br>
 Open AI API <br>
 JSON-based "divine logic" <br>
 
-
-### Implementation
-For Software: <br>
 # Installation
 cd krishna-backend <br>
 npm install <br>
@@ -49,9 +46,6 @@ npm install <br>
 # Run
 node server.js <br>
 go to index.html <br>
-
-### Project Documentation
-For Software: <br>
 
 # Screenshots 
 
@@ -72,6 +66,7 @@ For Software: <br>
 ### Project Demo
 # Video
 https://drive.google.com/drive/folders/1UNecACPckHo35CKm-1BQEPnYJGpYohIj?usp=sharing
+
 
 
 
