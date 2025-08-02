@@ -22,10 +22,10 @@ But let’s be real — where’s the contact info? Where’s the reply?
 
 ### The Solution (that nobody asked for)
 I built a website where:
-You can choose a god (e.g., Krishna, Shiva, Ganesha , Jesus , Allah)
+You can choose a god (e.g., Krishna, Shiva, Ganesha , Jesus , Allah).
 You'll get their “celestial” phone number.
 You can call them or start a chat with them.
-The gods reply instantly — because they run on JavaScript
+The gods reply instantly — because they run on JavaScript.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -66,11 +66,9 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/drive/folders/1UNecACPckHo35CKm-1BQEPnYJGpYohIj?usp=sharing
 
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
 
 
