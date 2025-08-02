@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divine Connect - Contact Your Favorite God</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="logo">
+                <i class="fas fa-pray"></i>
+                <h1>Divine Connect</h1>
+            </div>
+            <p class="tagline">Connect with your favorite deity instantly!</p>
+        </header>
+
+        <main class="main-content">
+            <div class="god-selection">
+                <h2>Choose Your Deity</h2>
+                <p>Select from different religions and connect with your chosen god</p>
+                
+                <div class="religion-tabs">
+                    <button class="tab-btn active" data-religion="hinduism">Hinduism</button>
+                    <button class="tab-btn" data-religion="islam">Islam</button>
+                    <button class="tab-btn" data-religion="christianity">Christianity</button>
+                    <button class="tab-btn" data-religion="sikhism">Sikhism</button>
+                    <button class="tab-btn" data-religion="buddhism">Buddhism</button>
+                </div>
+                
+                <div class="gods-grid" id="godsGrid">
+                    <!-- Gods will be populated by JavaScript -->
+                </div>
+            </div>
+
+            <div class="contact-section" id="contactSection" style="display: none;">
+                <div class="contact-card">
+                    <div class="god-avatar">
+                        <img id="godImage" src="" alt="God Avatar">
+                    </div>
+                    <h3 id="godName">God Name</h3>
+                    <p class="god-description" id="godDescription">God description will appear here</p>
+                    
+                    <div class="contact-info">
+                        <div class="contact-item">
+                            <i class="fas fa-phone"></i>
+                            <span id="godPhone">+91 99999 99999</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <span id="godEmail">god@divine.com</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fab fa-whatsapp"></i>
+                            <span id="godWhatsapp">+91 99999 99999</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <span id="godLocation">Heaven, Divine Realm</span>
+                        </div>
+                    </div>
+
+                    <div class="action-buttons">
+                        <button class="btn btn-primary" onclick="callGod()">
+                            <i class="fas fa-phone"></i> Call Now
+                        </button>
+                        <button class="btn btn-secondary" onclick="messageGod()">
+                            <i class="fas fa-comment"></i> Send Message
+                        </button>
+                    </div>
+
+                    <button class="btn btn-outline" onclick="backToSelection()">
+                        <i class="fas fa-arrow-left"></i> Choose Another God
+                    </button>
+                </div>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2024 Divine Connect - A Useless Project Hackathon Creation</p>
+            <p><small>Disclaimer: This is a fictional website for entertainment purposes only</small></p>
+        </footer>
+    </div>
+
+    <script src="custom-chatbot.js"></script>
+    <script src="script.js"></script>
+</body>
+</html> 

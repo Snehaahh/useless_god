@@ -1,0 +1,62 @@
+# Divine Connect - Currently Uploaded Image Files
+
+## Currently Available Images
+
+### Hinduism (6 images) ✅
+- krishna.jpg - Lord Krishna
+- rama.jpg - Lord Rama  
+- shiva.jpg - Lord Shiva
+- lakshmi.jpg - Goddess Lakshmi
+- ganesha.jpg - Lord Ganesha
+- hanuman.jpg - Lord Hanuman
+
+### Islam (3 images) ✅
+- allah.jpg - Allah (SWT)
+- muhammad.jpg - Prophet Muhammad (PBUH)
+- ibrahim.jpg - Prophet Ibrahim (AS)
+
+### Christianity (2 images) ✅
+- jesus.jpg - Jesus Christ
+- mary.jpg - Virgin Mary
+
+### Sikhism (1 image) ✅
+- nanak.jpg - Guru Nanak Dev Ji
+
+### Buddhism (1 image) ✅
+- buddha.jpg - Lord Buddha
+
+## Total: 13 images currently uploaded
+
+## Current File Structure:
+```
+Useless_god/
+├── index.html
+├── styles.css
+├── script.js
+├── README.md
+├── image_list.txt
+└── images/
+    ├── krishna.jpg ✅
+    ├── rama.jpg ✅
+    ├── shiva.jpg ✅
+    ├── lakshmi.jpg ✅
+    ├── ganesha.jpg ✅
+    ├── hanuman.jpg ✅
+    ├── allah.jpg ✅
+    ├── muhammad.jpg ✅
+    ├── ibrahim.jpg ✅
+    ├── jesus.jpg ✅
+    ├── mary.jpg ✅
+    ├── nanak.jpg ✅
+    └── buddha.jpg ✅
+```
+
+## Website Status:
+- ✅ Hinduism tab: Fully functional with 6 gods
+- ✅ Islam tab: Fully functional with 3 gods
+- ✅ Christianity tab: Partially functional with 2 gods
+- ✅ Sikhism tab: Partially functional with 1 god
+- ✅ Buddhism tab: Partially functional with 1 god
+
+## Note:
+The website will only show gods that have images uploaded. Empty religion tabs will show no gods. 
