@@ -59,10 +59,10 @@ For Software: <br>
 *This shows the landing page of Divine Connect*
 
 ![Chat with God](demo_ss/image2.png)  
-*This is the chat interface with Lord Krishna*
+*This section displays phone numbers of various Gods you can "contact"* 
 
 ![Divine Contact Numbers](demo_ss/image3.png)  
-*This section displays phone numbers of various Gods you can "contact"*
+*This is the chat interface with Lord Krishna*
 
 
 # Diagrams
@@ -72,6 +72,7 @@ For Software: <br>
 ### Project Demo
 # Video
 https://drive.google.com/drive/folders/1UNecACPckHo35CKm-1BQEPnYJGpYohIj?usp=sharing
+
 
 
 
