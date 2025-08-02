@@ -13,45 +13,45 @@
 
 
 ### Project Description
-Divine Connect is a fun website where users can select their favorite deity, get their (totally fictional) contact number, and even chat with them using AI-generated divine responses.
+Divine Connect is a fun website where users can select their favorite deity, get their (totally fictional) contact number, and even chat with them using AI-generated divine responses.<br>
 A light-hearted twist on religion and technology
 
 ### The Problem (that doesn't exist)
-People worship for years hoping for a sign from God.
+People worship for years hoping for a sign from God.<br>
 But let’s be real — where’s the contact info? Where’s the reply?
 
 ### The Solution (that nobody asked for)
-I built a website where:
-You can choose a god (e.g., Krishna, Shiva, Ganesha , Jesus , Allah).
-You'll get their “celestial” phone number.
-You can call them or start a chat with them.
-The gods reply instantly — because they run on JavaScript.
+I built a website where:<br>
+You can choose a god (e.g., Krishna, Shiva, Ganesha , Jesus , Allah).<br>
+You'll get their “celestial” phone number.<br>
+You can call them or start a chat with them.<br>
+The gods reply instantly — because they run on JavaScript.<br>
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
+For Software:<br>
 
-Frontend: HTML, CSS, JavaScript
-Backend: 
-Libraries/Tools:
-dotenv
-fetch API
-Open AI API
-JSON-based "divine logic"
+Frontend: HTML, CSS, JavaScript<br>
+Backend: <br>
+Libraries/Tools: <br>
+dotenv <br>
+fetch API <br>
+Open AI API <br>
+JSON-based "divine logic" <br>
 
 
 ### Implementation
-For Software:
+For Software: <br>
 # Installation
-cd krishna-backend
-npm install
+cd krishna-backend <br>
+npm install <br>
 
 # Run
-node server.js
-go to index.html
+node server.js <br>
+go to index.html <br>
 
 ### Project Documentation
-For Software:
+For Software: <br>
 
 # Screenshots (Add at least 3)
 ![Screenshot1]
@@ -67,6 +67,7 @@ For Software:
 ### Project Demo
 # Video
 https://drive.google.com/drive/folders/1UNecACPckHo35CKm-1BQEPnYJGpYohIj?usp=sharing
+
 
 
 
